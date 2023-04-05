@@ -1,0 +1,51 @@
+Song ID	Title, Album, Date, Artist
+9452715	BESO, RR, 2023, 3:20, Rosalia
+7544321	Boy's a liar, Boy's a liar Pt.2, 2023, 2:11, Ice Spice
+9883480	Boy's a liar, Boy's a liar Pt.2, 2023, 2:11, Ice Spice
+9495223	Blinding lights, After hours, 2023, 3:20, The Weekend
+8289129	Blinding lights, After hours, 2023, 3:20, The Weekend
+6468130	Levitating, Future nostalgia, 2023, Dua Lipa
+5198783	Levitating, Future nostalgia, 2023, Dua Lipa
+7967224	SNAP, SNAP, 2023, 2:59, Rosa Linn
+4639848	SNAP, SNAP, 2023, 2:59, Rosa Linn
+1104935	Adore You, Fine Line, 2023, 3:27, Harry Style
+4982959	Adore You, Fine Line, 2023, 3:27, Harry Style
+7839963	Despecha, MOTOMAMI, 2023, 2:36, Rosalia
+1831947	Despecha, MOTOMAMI, 2023, 2:36, Rosalia
+2766703	Telepatia, Sin Miedo, 2023, 2:40, Kali Uchis
+2732412	Telepatia, Sin Miedo, 2023, 2:40, Kali Uchis
+1594614	Ceilings, five seconds flat, 2023, 3:02, Lizzy McAlpine
+8439854	Ceilings, five seconds flat, 2023, 3:02, Lizzy McAlpine
+3443864	Miracle, Miracle, 2023, 3:06, Calvin Harris
+2885411	Miracle, Miracle, 2023, 3:06, Calvin Harris
+3351166	Kill Bill, SOS, 2023, 2:33, SZA
+7164444	Kill Bill, SOS, 2023, 2:33, SZA
+2264120	You broke me first, You broke me first, 2023, 2:49, Tate McRae
+6726493	You broke me first, You broke me first, 2023, 2:49, Tate McRae
+6781031	OMG, NewJeans, 2023, 3:32, NewJeans
+1106077	OMG, NewJeans, 2023, 3:32, NewJeans
+6834313	I Ain't worried, I Ain't Worried, 2023, 2:28, OneRepublic
+3659676	I Ain't worried, I Ain't Worried, 2023, 2:28, OneRepublic
+3927988	Hold Me Closer, Hold Me Closer, 2023, 3:22, Elton John
+2787825	Hold Me Closer, Hold Me Closer, 2023, 3:22, Elton John
+4822814	YoungBlood, Youngblood, 2023, 3:23, 5 Seconds of Summer
+6461136	YoungBlood, Youngblood, 2023, 3:23, 5 Seconds of Summer
+2256372	Todo De Ti, Todo De ti, 2023, 3:19, Rauw Alejandro
+5739210	Todo De Ti, Todo De ti, 2023, 3:19, Rauw Alejandro
+7320546	Heat Waves, Dreamland, 2023, 3:58, Glass Animals
+9591667	Heat Waves, Dreamland, 2023, 3:58, Glass Animals
+7066635	Ride It, Ride It, 2023, 2:37, Regard
+9186156	Ride It, Ride It, 2023, 2:37, Regard
+5230671	MONTERO, MONTERO, 2023, 2:17, Lil Nas X
+8900286	MONTERO, MONTERO, 2023, 2:17, Lil Nas X
+9271032	Good Days, Good Days, 2023, 4:39, SZA
+8409415	Good Days, Good Days, 2023, 4:39, SZA
+7180137	Bam Bam, Bam Bam, 2023, 3:26, Camila Cabello
+8082513	Bam Bam, Bam Bam, 2023, 3:26, Camila Cabello
+8405881	2002, Speak Your Mind, 2023, 3:06, Anne Marie
+2631631	2002, Speak Your Mind, 2023, 3:06, Anne Marie
+9220690	Mood, El Dorado, 2023, 2:20, 24kGoldn
+8070370	Mood, El Dorado, 2023, 2:20, 24kGoldn
+7671970	Boyfriend, Boyfriend, 2023, 2:33, Dove Cameron
+4872262	Boyfriend, Boyfriend, 2023, 2:33, Dove Cameron
+6892631	null
