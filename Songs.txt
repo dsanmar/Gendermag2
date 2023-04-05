@@ -1,0 +1,51 @@
+Title, Album, Date, Artist
+BESO, RR, 2023, 3:20, Rosalia
+BESO, RR, 2023, 3:20, Rosalia
+Boy's a liar, Boy's a liar Pt.2, 2023, 2:11, Ice Spice
+Boy's a liar, Boy's a liar Pt.2, 2023, 2:11, Ice Spice
+Blinding lights, After hours, 2023, 3:20, The Weekend
+Blinding lights, After hours, 2023, 3:20, The Weekend
+Levitating, Future nostalgia, 2023, Dua Lipa
+Levitating, Future nostalgia, 2023, Dua Lipa
+SNAP, SNAP, 2023, 2:59, Rosa Linn
+SNAP, SNAP, 2023, 2:59, Rosa Linn
+Adore You, Fine Line, 2023, 3:27, Harry Style
+Adore You, Fine Line, 2023, 3:27, Harry Style
+Despecha, MOTOMAMI, 2023, 2:36, Rosalia
+Despecha, MOTOMAMI, 2023, 2:36, Rosalia
+Telepatia, Sin Miedo, 2023, 2:40, Kali Uchis
+Telepatia, Sin Miedo, 2023, 2:40, Kali Uchis
+Ceilings, five seconds flat, 2023, 3:02, Lizzy McAlpine
+Ceilings, five seconds flat, 2023, 3:02, Lizzy McAlpine
+Miracle, Miracle, 2023, 3:06, Calvin Harris
+Miracle, Miracle, 2023, 3:06, Calvin Harris
+Kill Bill, SOS, 2023, 2:33, SZA
+Kill Bill, SOS, 2023, 2:33, SZA
+You broke me first, You broke me first, 2023, 2:49, Tate McRae
+You broke me first, You broke me first, 2023, 2:49, Tate McRae
+OMG, NewJeans, 2023, 3:32, NewJeans
+OMG, NewJeans, 2023, 3:32, NewJeans
+I Ain't worried, I Ain't Worried, 2023, 2:28, OneRepublic
+I Ain't worried, I Ain't Worried, 2023, 2:28, OneRepublic
+Hold Me Closer, Hold Me Closer, 2023, 3:22, Elton John
+Hold Me Closer, Hold Me Closer, 2023, 3:22, Elton John
+YoungBlood, Youngblood, 2023, 3:23, 5 Seconds of Summer
+YoungBlood, Youngblood, 2023, 3:23, 5 Seconds of Summer
+Todo De Ti, Todo De ti, 2023, 3:19, Rauw Alejandro
+Todo De Ti, Todo De ti, 2023, 3:19, Rauw Alejandro
+Heat Waves, Dreamland, 2023, 3:58, Glass Animals
+Heat Waves, Dreamland, 2023, 3:58, Glass Animals
+Ride It, Ride It, 2023, 2:37, Regard
+Ride It, Ride It, 2023, 2:37, Regard
+MONTERO, MONTERO, 2023, 2:17, Lil Nas X
+MONTERO, MONTERO, 2023, 2:17, Lil Nas X
+Good Days, Good Days, 2023, 4:39, SZA
+Good Days, Good Days, 2023, 4:39, SZA
+Bam Bam, Bam Bam, 2023, 3:26, Camila Cabello
+Bam Bam, Bam Bam, 2023, 3:26, Camila Cabello
+2002, Speak Your Mind, 2023, 3:06, Anne Marie
+2002, Speak Your Mind, 2023, 3:06, Anne Marie
+Mood, El Dorado, 2023, 2:20, 24kGoldn
+Mood, El Dorado, 2023, 2:20, 24kGoldn
+Boyfriend, Boyfriend, 2023, 2:33, Dove Cameron
+Boyfriend, Boyfriend, 2023, 2:33, Dove Cameron
